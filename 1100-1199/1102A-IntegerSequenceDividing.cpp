@@ -8,3 +8,17 @@ int main(){
 
     return 0;
 }
+
+/*
+#include <bits/stdc++.h>
+using namespace std;
+
+int main()
+{
+    long num;
+    cin >> num;
+    long long sum = (num * (num + 1) / 2) * 1ll;
+    cout << (1 & sum) << endl;
+    return 0;
+}
+*/
